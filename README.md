@@ -1,4 +1,4 @@
-# Simple_Calculator
+# Simple_Calculator.py
 This is a python code for a simple calculator that performs basic numerical functions
 
 def calculate(n1, n2, op):
